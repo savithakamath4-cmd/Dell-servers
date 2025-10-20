@@ -7,6 +7,7 @@
       <step><cmd>Unpack the server.</cmd></step>
       <step><cmd>Mount it in the rack.</cmd></step>
       <step><cmd>Connect power cables.</cmd></step>
+      <step><cmd>Switch on.</cmd></step>
     </steps>
   </taskbody>
 </task>
