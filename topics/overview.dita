@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="server-overview">
+  <title>Dell PowerEdge Server Overview</title>
+  <shortdesc>This topic introduces the Dell PowerEdge server.</shortdesc>
+  <conbody>
+    <p>The Dell PowerEdge R750 provides enterprise-grade performance for data centers.</p>
+  </conbody>
+</concept>
